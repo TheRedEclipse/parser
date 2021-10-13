@@ -1,4 +1,4 @@
-# Build a Supplier Product List Processor
+# Run script
 
 #### Run example:
 `parser.php --file example_1.csv --unique-combinations=combination_count.csv`
